@@ -1,4 +1,4 @@
 [back](../README.md)
 # Design Patterns
 
-- [Competences](competences.md)
+- [**Competences**](competences.md)

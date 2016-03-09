@@ -3,6 +3,10 @@
 
 ## Problem Summary
 
+The *Headline* is the text indicating the nature of the content below it.
+
+> :exclamation: Headlines in English often use a unique set of grammatical rules known as [:link: Headlinese](https://en.wikipedia.org/wiki/Headlinese).
+
 ## Also Known As
 
 ## Usage

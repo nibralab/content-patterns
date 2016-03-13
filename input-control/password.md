@@ -25,10 +25,7 @@ placeholder | This help text is displayed as placeholder before the actual passw
 ## Examples
 
 Basic usage
-[password-1.jpg]
-
-Advanced styling
-[password-2.jpg]
+![basic sample](img/password-1.jpg "basic sample")
 
 ## References
 

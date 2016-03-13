@@ -1,0 +1,36 @@
+[back](#)
+# Pattern Name
+
+textarea
+
+## Problem Summary
+
+Input field for entering multi line text.
+
+## Also Known As
+
+none
+
+## Usage
+
+Represents a multi-line plain-text editing control.
+
+## Required data
+
+
+Property | Description
+------------ | -------------
+placeholder | This help text is displayed as placeholder before the actual text is entered
+
+## Examples
+
+Basic usage
+[textarea-1.png]
+
+
+## References
+
+none
+
+
+

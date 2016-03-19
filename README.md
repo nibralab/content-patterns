@@ -7,6 +7,32 @@ Content Patterns provide a common language between designers.
 They allow for debate over alternatives, where merely mentioning the name of a 
 content pattern implicitly carries much more meaning than just the name.
 
+## Why bother?
+
+Currently with Joomla!, extension developers (and the core as well) put hard coded HTML and JS into their view,
+and additionally put their own styling preferences into it.
+Since we in Joomla!4 want to establish a Channel Independency Border, that cannot be allowed anymore.
+
+## Solution
+
+The solution is to provide a kind of 'Domain Language', a collection of building blocks
+(so called atoms, molecules, organisms in Atomic Design), developers can use instead.
+The advantage is, that we get a much better separation of concerns:
+ 
+  - The developer defines the output independent from the output media, on kind of a semantic level.
+  - The Renderer creates the structure (HTML) and functionality (JS) from it.
+  - The template adds styling to the structure.
+  
+The Content and UI Pattern Library is ment to support on all three stages.
+It
+
+  - defines the building blocks, that the developer can address, and which data they need,
+  - determines which methods all Renderers must provide, and
+  - lets a template designer create a template, that works for upcoming extensions as well,
+    because (s)he just styles the building blocks (in different contexts, since fx. a LinkList may be styled differently, depending on its position on the page).
+
+## Table of Content
+
 - [Input Control Patterns](input-control/input-control.md)
 - [Structural Patterns](structural/structural.md)
 - [Design Patterns](design/design.md)

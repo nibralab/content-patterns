@@ -1,4 +1,6 @@
-[back](../README.md)
+---- | ---- | ----
+ | [up](../README.md) |
+
 # Input Control Patterns
 
 - [Textarea (plain, wysiwyg)](#)

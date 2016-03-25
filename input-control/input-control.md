@@ -1,4 +1,4 @@
-<table width="100%"><tr><td align="left"></td><td align="center"><a href="../README.md">up</a></td><td align="right"></td></tr></table>
+<table style="width:100%;"><tr><td align="left"></td><td align="center"><a href="../README.md">up</a></td><td align="right"></td></tr></table>
 
 # Input Control Patterns
 

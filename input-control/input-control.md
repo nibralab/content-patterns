@@ -1,5 +1,4 @@
----- | ---- | ----
- | [up](../README.md) |
+<table><tr><td align="left"></td><td align="center">[up](../README.md)</td><td align="right"></td></tr></table>
 
 # Input Control Patterns
 

@@ -19,8 +19,8 @@ Situations in which this pattern is usable; the context for the pattern.
 
 The data required to use this pattern.
 
-Property | Description
------------- | -------------
+Property | Type | Description
+------------ | ------------- | -------------
 
 ## Examples
 

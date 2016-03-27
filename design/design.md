@@ -1,5 +1,5 @@
 [back](../README.md)
 # Design Patterns
 
-- [**Competences**](competences.md)
+- [**Feature List**](feature-list.md)
 - [**Hero Image**](hero-image.md)

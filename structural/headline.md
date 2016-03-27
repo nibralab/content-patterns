@@ -13,9 +13,9 @@ The *Headline* is the text indicating the nature of the content below it.
 
 ## Required data
 
-Property | Description
------------- | -------------
-`title` | The headline
+Property | Type | Description
+------------ | ------------- | -------------
+`title` | string | The headline
 
 > :exclamation: The Renderer is responsible for assigning the level according to the current content structure.
 

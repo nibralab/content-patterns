@@ -54,9 +54,7 @@ To contribute,
   
 ## License
 
-![by](img/pict-by.png)
-![nc](img/pict-nc.png)
-![sa](img/pict-sa.png)
+[![Creative Commons License](img/cc-by-nc-sa-88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 The content of the **Content and UI Pattern Library** is published under the
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License** [CC-by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/4.0/).

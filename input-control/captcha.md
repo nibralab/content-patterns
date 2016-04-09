@@ -4,7 +4,7 @@
 
 Captcha is short for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.
 The whole idea behind Captchas is to distinguish humans from computers letting the user perform an action a computer can't.
-A captcha is a simple Turing test.
+A Captcha is a simple Turing test.
 
 ## Problem Summary
 
@@ -26,16 +26,16 @@ which makes it hard for computers while maintaining readability for humans.
 
 If the user succeeds in typing what the image says, his content is posted to the website.
 If not, the action will be refused.
-It is common to allow a number of tries to enter the captcha text,
-as some captcha images are even unreadable to humans due to the strong image manipulation is has been exposed to.
+It is common to allow a number of tries to enter the Captcha text,
+as some Captcha images are even unreadable to humans due to the strong image manipulation it has been exposed to.
 
-There is a fine line between making a captcha unrecognizable for OCR scanners and still readable for human beings.
+There is a fine line between making a Captcha unrecognizable for OCR scanners and still readable for human beings.
 Readability for the human has to come first.
-Other problems with implementing captchas to protect your website include a lock-out from visually impaired users,
-as they can't use voice software to speak what the captcha reads.
+Other problems with implementing Captchas to protect your website include a lock-out from visually impaired users,
+as they can't use voice software to speak what the Captcha reads.
 
 Other forms of protection from malicious spammers are asking questions
-like “what is 2 + 3” or “what is two plus three” or using voice captchas,
+like “what is 2 + 3” or “what is two plus three” or using voice Captchas,
 
 ## Usage
 
@@ -45,7 +45,7 @@ Use a Captcha, when
   - you need to protect your website from automated robots
   - the capability to post content to your website is not blocked by the need to be logged in. Registration processes are included.
 
-## Required data
+## Required Data
 
 A Captcha does not need data.
 The Captcha is responsible to create or define the challenge.

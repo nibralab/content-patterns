@@ -10,17 +10,16 @@ A *Teaser* is a short text or picture element to entice the visitor for further 
 ## Usage
 
 The *Teaser* is often used on the front page and advertises the actual contribution.
-It can be part of other Patterns, as the [*Competences*](../design/competences.md) Pattern.
+It can be part of other Patterns, as the [*Feature List*](../design/feature-list.md) Pattern.
 
 ## Required data
 
-Property | Description
------------- | -------------
-`image` | The image / icon
-`title` | The title
-`body` | The body (Compound of arbitrary ContentTypes)
-`linktext` | Text of the 'read more' button
-`href` | URL to be opened after clicking the button
+Property | Type | Description
+------------ | ------------- | -------------
+`image` | Image | The image / icon
+`title` | Headline | The title
+`body` | Compound | The body (Compound of arbitrary ContentTypes)
+`link` | Link | The link to the contribution
 
 ## Examples
 

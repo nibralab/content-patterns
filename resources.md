@@ -4,6 +4,14 @@
 The resources are listed in alphabetical order.
 The order does not reflect any kind of ranking.
 
+## [A Pattern Apart](http://patterns.alistapart.com/)
+
+A List Apart's pattern library.
+
+## [Pattern Lab](http://patternlab.io/)
+
+Pattern Lab is a collection of tools to help you create atomic design systems.
+
 ## [Patternry](http://patternry.com/patterns/) (commercial, 60 day trial)
 
 Patternry provides detailed information on different design patterns and explains
@@ -30,3 +38,9 @@ With more than 5000 interface patterns and a variety of code snippets,
 Zurb belongs to one of the largest pattern libraries on the net.
 However, detailed descriptions are missing.
 Therefore, the site is aimed primarily at experienced designers who are looking for inspiration.
+
+---
+
+## [Simplicity in Web Application Design](http://de.slideshare.net/UXPA/simplicity-in-web-application-design)
+Some rules to consider, when designing web applications.
+Could be turned into a recommendation for extension developers.

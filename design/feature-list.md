@@ -1,9 +1,7 @@
 [back](design.md)
-# Competences
+# Feature List
 
-> :question: The name 'Competences' doesn't feel right. Any suggestions?
- 
-This pattern is used to illustrate the main competences of the business / project.
+This pattern is used to illustrate the main features of a product or competences of a business.
 
 ## Problem Summary
 

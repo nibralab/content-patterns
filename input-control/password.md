@@ -1,15 +1,13 @@
 [back](#)
-# Pattern Name
-
-password
-
-## Problem Summary
+# Password
 
 Input field for entering password
 
-## Also Known As
+## Problem Summary
 
-none
+The user wants to input a secret value.
+
+## Also Known As
 
 ## Usage
 
@@ -17,22 +15,13 @@ Allow users to input secret password. The field does not display the actual char
 
 ## Required data
 
-
 Property | Description
 ------------ | -------------
+label | The field's label
 placeholder | This help text is displayed as placeholder before the actual password is entered
 
 ## Examples
 
-Basic usage
-[password-1.jpg]
-
-Advanced styling
-[password-2.jpg]
+![basic sample](img/password-1.jpg "basic sample")
 
 ## References
-
-none
-
-
-

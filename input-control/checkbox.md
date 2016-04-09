@@ -1,15 +1,14 @@
 [back](#)
-# Pattern Name
+# Checkbox
 
-checkbox
+An element that can be turned on and off to indicate selection. 
 
 ## Problem Summary
 
-An element that can be turned on and off. 
+The user wants to make one or more selection from a group of items.
 
 ## Also Known As
 
-none
 
 ## Usage
 
@@ -17,15 +16,13 @@ This is most commonly rendered as a box when the element is off and a box with a
 
 ## Required data
 
-none
-
 
 ## Examples
 
 
 ## References
 
-none
+
 
 
 

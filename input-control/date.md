@@ -1,15 +1,14 @@
 [back](#)
-# Pattern Name
-
-date
-
-## Problem Summary
+# Date
 
 Input field for entering date.
 
+## Problem Summary
+
+The user wants to input a date value.
+
 ## Also Known As
 
-none
 
 ## Usage
 
@@ -17,18 +16,15 @@ A control for entering a date (year, month, and day, with no time).
 
 ## Required data
 
-none
-
 
 ## Examples
 
 Basic usage
-[date-1.png]
+![Date selector](img/date-1.jpg)
 
 
 ## References
 
-none
 
 
 

@@ -1,15 +1,15 @@
 [back](#)
-# Pattern Name
 
-radio
+# Radio
+
+An element that can be turned on and off to indicate selection
 
 ## Problem Summary
 
-An element that can be turned on and off. 
+The user wants to make one selection from a group of items.
 
 ## Also Known As
 
-none
 
 ## Usage
 
@@ -17,15 +17,12 @@ Radio buttons are almost always grouped together in groups. Only one radio butto
 
 ## Required data
 
-none
-
 
 ## Examples
 
 
 ## References
 
-none
 
 
 

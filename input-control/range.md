@@ -1,15 +1,14 @@
 [back](#)
-# Pattern Name
-
-range
-
-## Problem Summary
+# Range
 
 A control for entering a number whose exact value is not important.
 
+## Problem Summary
+
+The user wants to select a value interactively without entering number.
+
 ## Also Known As
 
-none
 
 ## Usage
 
@@ -21,14 +20,13 @@ step: 1
 
 ## Required data
 
-none
 
 ## Examples
 
 
 ## References
 
-none
+
 
 
 

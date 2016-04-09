@@ -1,7 +1,7 @@
 [back](#)
 # Upload
 
-A control that lets the user select a file.
+A control that lets the user select a file for upload.
 
 ## Problem Summary
 

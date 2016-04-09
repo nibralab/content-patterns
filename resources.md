@@ -17,7 +17,7 @@ Pattern Lab is a collection of tools to help you create atomic design systems.
 Patternry provides detailed information on different design patterns and explains
 which patterns solve which problems and when they are best used.
 
-## [UI Patterns](http://ui-patterns.com/patterns) (free)
+## [UI Patterns](http://ui-patterns.com/patterns) ([CC-by-nc-sa/2.5/dk](http://creativecommons.org/licenses/by-nc-sa/2.5/dk/))
 
 UI Patterns has divided the patterns into thematic sectors.
 It will tell you when they are best used, how the user is expected to

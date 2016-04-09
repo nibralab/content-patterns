@@ -1,4 +1,5 @@
-[back](#)
+[back](input-control.md)
+
 # Upload
 
 A control that lets the user select a file for upload.

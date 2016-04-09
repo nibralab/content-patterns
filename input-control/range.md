@@ -1,4 +1,5 @@
-[back](#)
+[back](input-control.md)
+
 # Range
 
 A control for entering a number whose exact value is not important.

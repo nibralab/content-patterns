@@ -1,4 +1,4 @@
-[back](#)
+[back](input-control.md)
 
 # Time
 

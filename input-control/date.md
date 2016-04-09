@@ -1,4 +1,5 @@
-[back](#)
+[back](input-control.md)
+
 # Date
 
 Input field for entering date.

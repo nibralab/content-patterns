@@ -1,4 +1,5 @@
-[back](#)
+[back](input-control.md)
+
 # Checkbox
 
 An element that can be turned on and off to indicate selection. 

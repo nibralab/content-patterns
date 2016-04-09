@@ -2,8 +2,8 @@
 
 # Captcha
 
-Captcha is short for ‘Completely Automated Public Turing test to tell Computers and Humans Apart’.
-The whole idea behind Captchas is to distinguish humans from computers letting the user perform an action a computer can’t.
+Captcha is short for 'Completely Automated Public Turing test to tell Computers and Humans Apart'.
+The whole idea behind Captchas is to distinguish humans from computers letting the user perform an action a computer can't.
 A captcha is a simple Turing test.
 
 ## Problem Summary
@@ -32,7 +32,7 @@ as some captcha images are even unreadable to humans due to the strong image man
 There is a fine line between making a captcha unrecognizable for OCR scanners and still readable for human beings.
 Readability for the human has to come first.
 Other problems with implementing captchas to protect your website include a lock-out from visually impaired users,
-as they can’t use voice software to speak what the captcha reads.
+as they can't use voice software to speak what the captcha reads.
 
 Other forms of protection from malicious spammers are asking questions
 like “what is 2 + 3” or “what is two plus three” or using voice captchas,
@@ -47,8 +47,9 @@ Use a Captcha, when
 
 ## Required data
 
-Property | Type | Description
--------- | ---- | -----------
+A Captcha does not need data.
+The Captcha is responsible to create or define the challenge.
+It provides a validation rule, that checks if the Captcha was resolved correctly.
 
 ## Examples
 

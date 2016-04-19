@@ -1,46 +1,60 @@
 [back](README.md)
 # Resources
 
+## Libraries
+
 The resources are listed in alphabetical order.
 The order does not reflect any kind of ranking.
 
-## [A Pattern Apart](http://patterns.alistapart.com/)
+### [A Pattern Apart](http://patterns.alistapart.com/)
 
 A List Apart's pattern library.
 
-## [Pattern Lab](http://patternlab.io/)
+### [Pattern Lab](http://patternlab.io/)
 
 Pattern Lab is a collection of tools to help you create atomic design systems.
 
-## [Patternry](http://patternry.com/patterns/) (commercial, 60 day trial)
+### [Patternry](http://patternry.com/patterns/) (commercial, 60 day trial)
 
 Patternry provides detailed information on different design patterns and explains
 which patterns solve which problems and when they are best used.
 
-## [UI Patterns](http://ui-patterns.com/patterns) ([CC-by-nc-sa/2.5/dk](http://creativecommons.org/licenses/by-nc-sa/2.5/dk/))
+### [Schema.org](http://schema.org/docs/schemas.html)
+
+The schemas are a set of 'types', each associated with a set of properties. The types are arranged in a hierarchy.
+The core vocabulary currently consists of 642 Types, 992 Properties, and 219 Enumeration values.
+
+### [UI Patterns](http://ui-patterns.com/patterns) ([CC-by-nc-sa/2.5/dk](http://creativecommons.org/licenses/by-nc-sa/2.5/dk/))
 
 UI Patterns has divided the patterns into thematic sectors.
 It will tell you when they are best used, how the user is expected to
 interact with the elements, and how the patterns contribute to a good
 User Experience.
 
-## [Welie](http://www.welie.com/patterns/) (free)
+### [Welie](http://www.welie.com/patterns/) (free)
 
 This site contains a lot of best practices in Interaction Design.
 
-## [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/) (free)
+### [Yahoo Design Pattern Library](https://developer.yahoo.com/ypatterns/) (free)
 
 This library shares user interface patterns with the web design and development community. 
 
-## [Zurb](http://zurb.com/building-blocks) (free)
+### [Zurb](http://zurb.com/building-blocks) (free)
 
 With more than 5000 interface patterns and a variety of code snippets,
 Zurb belongs to one of the largest pattern libraries on the net.
 However, detailed descriptions are missing.
 Therefore, the site is aimed primarily at experienced designers who are looking for inspiration.
 
----
+## UI Inspirations
 
-## [Simplicity in Web Application Design](http://de.slideshare.net/UXPA/simplicity-in-web-application-design)
+### [Quix Pagebuilder](https://www.themexpert.com/quix-pagebuilder)
+
+### [SP Pagebuilder](https://www.joomshaper.com/page-builder)
+
+## Guidelines
+
+### [Simplicity in Web Application Design](http://de.slideshare.net/UXPA/simplicity-in-web-application-design)
+
 Some rules to consider, when designing web applications.
 Could be turned into a recommendation for extension developers.

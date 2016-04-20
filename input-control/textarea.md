@@ -24,8 +24,8 @@ Property | Type | Description
 
 ## Examples
 
-![Captcha example](img/textarea-1.jpg)
-![Captcha example](img/textarea-2.jpg)
+![Captcha example](img/textarea-1.png)
+
 
 
 ## References

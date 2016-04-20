@@ -29,6 +29,8 @@ value | string | The value sent to server on form submission
 
 ## Examples
 
+![Checkbox example](img/radio-1.jpg)
+![Checkbox example](img/radio-2.jpg)
 
 
 ## References

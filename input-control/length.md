@@ -24,7 +24,7 @@ Property | Type | Description
 
 ## Examples
 
-
+![Captcha example](img/length-1.jpg)
 
 ## References
 

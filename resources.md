@@ -58,6 +58,8 @@ The order does not reflect any kind of ranking.
 
 ### [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e)
 
+### [Embrace SCSS micro-framework](http://nternetinspired.github.io/embrace/)
+
 ## Guidelines
 
 In this section you'll find resources with recommendations regarding the implementation of some patterns in the HTML context. 

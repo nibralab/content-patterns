@@ -56,6 +56,8 @@ The order does not reflect any kind of ranking.
 
 ### [SP Pagebuilder](https://www.joomshaper.com/page-builder)
 
+### [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e)
+
 ## Guidelines
 
 In this section you'll find resources with recommendations regarding the implementation of some patterns in the HTML context. 

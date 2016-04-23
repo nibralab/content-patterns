@@ -24,8 +24,8 @@ Property | Type | Description
 
 ## Examples
 
-![Captcha example](img/time-1.png)
-![Captcha example](img/time-2.png)
+![Time example](img/time-1.png)
+![Time example](img/time-2.png)
 
 
 ## References

@@ -30,7 +30,7 @@ step | integer | The increment number for the sequence
 
 ## Examples
 
-![Captcha example](img/range-1.jpg)
+![Range example](img/range-1.jpg)
 
 ## References
 

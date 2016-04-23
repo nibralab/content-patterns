@@ -24,7 +24,7 @@ Property | Type | Description
 
 ## Examples
 
-![Captcha example](img/weight-1.jpg)
+![Weight example](img/weight-1.jpg)
 
 
 

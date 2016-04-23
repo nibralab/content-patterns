@@ -25,7 +25,7 @@ Property | Type | Description
 
 ## Examples
 
-![Captcha example](img/media-1.jpg)
+![Media example](img/media-1.jpg)
 
 ## References
 

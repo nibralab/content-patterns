@@ -19,7 +19,7 @@ The input value is validated to contain either the empty string or a single vali
 
 
 ## Examples
-![Captcha example](img/email-1.jpg)
+![Email example](img/email-1.jpg)
 
 ## References
 

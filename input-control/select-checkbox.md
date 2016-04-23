@@ -1,6 +1,6 @@
 [back](input-control.md)
 
-# Radio Select
+# Checkbox Select
 
 Input field that can be turned on and off to indicate selection.
 

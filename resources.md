@@ -60,6 +60,8 @@ The order does not reflect any kind of ranking.
 
 ### [Embrace SCSS micro-framework](http://nternetinspired.github.io/embrace/)
 
+### [Flexbox Patterns](http://www.flexboxpatterns.com/home)
+
 ## Guidelines
 
 In this section you'll find resources with recommendations regarding the implementation of some patterns in the HTML context. 

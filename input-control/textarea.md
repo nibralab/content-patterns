@@ -24,6 +24,8 @@ Property | Type | Description
 
 ## Examples
 
+![Textarea example](img/textarea-1.png)
+
 
 
 ## References

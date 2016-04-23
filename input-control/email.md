@@ -19,7 +19,7 @@ The input value is validated to contain either the empty string or a single vali
 
 
 ## Examples
-
+![Email example](img/email-1.jpg)
 
 ## References
 

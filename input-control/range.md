@@ -21,9 +21,16 @@ step: 1
 
 ## Required data
 
+Property | Type | Description
+------------ | ------------- | -------------
+min | integer | The starting number for the range
+max | integer | The ending number for the range
+step | integer | The increment number for the sequence
+
 
 ## Examples
 
+![Range example](img/range-1.jpg)
 
 ## References
 

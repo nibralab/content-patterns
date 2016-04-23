@@ -25,7 +25,7 @@ Property | Type | Description
 
 ## Examples
 
-
+![Cascaded select example](img/cascaded-select-1.jpg)
 
 ## References
 

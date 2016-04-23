@@ -20,6 +20,8 @@ Use the accept attribute to define the types of files that the control can selec
 
 ## Examples
 
+![Upload example](img/upload-1.jpg)
+
 
 ## References
 

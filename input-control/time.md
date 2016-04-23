@@ -24,6 +24,8 @@ Property | Type | Description
 
 ## Examples
 
+![Time example](img/time-1.png)
+![Time example](img/time-2.png)
 
 
 ## References

@@ -27,6 +27,8 @@ ISO Code | string | ISO code for language
 
 ![Language example](img/language-1.jpg)
 
+![Language example](img/language-2.jpg)
+
 ## References
 
 http://www.loc.gov/standards/iso639-2/

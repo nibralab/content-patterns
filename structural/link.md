@@ -19,4 +19,5 @@ link text | string | The name for the link
 
 ## Examples
 
-![Action sample](img/link-1.jpg "basic sample")
+![Link sample](img/paragraph-1.jpg "basic sample")
+![Link sample](img/link-1.jpg "basic sample")

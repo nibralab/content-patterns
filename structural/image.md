@@ -18,4 +18,4 @@ path | string | the folder path to the image file
 
 ## Examples
 
-![Action sample](img/image-1.jpg "basic sample")
+![Image sample](img/image-1.jpg "basic sample")

@@ -1,22 +1,23 @@
 [back](structural.md)
-# Headline
+# Call to Action
+
+It is like the Teaser pattern plus a button.
 
 ## Problem Summary
 
-The *Headline* is the text indicating the nature of the content below it.
-
-> :exclamation: Headlines in English often use a unique set of grammatical rules known as [:link: Headlinese](https://en.wikipedia.org/wiki/Headlinese).
+The user wants to add call to action button next to other patterns like teaser.
 
 ## Also Known As
 
 ## Usage
+Allows user to add call to action button. This pattern is useful when action is required from user in addition to content displayed in the UI pattern.
 
 ## Required data
 
 Property | Type | Description
 ------------ | ------------- | -------------
-`title` | string | The headline
-
-> :exclamation: The Renderer is responsible for assigning the level according to the current content structure.
+Button title | string | The button text 
 
 ## Examples
+
+![Call to Action sample](img/calltoaction-1.jpg "basic sample")

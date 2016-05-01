@@ -1,22 +1,21 @@
 [back](structural.md)
-# Headline
+# Image
+It is a graphical content in popular image file formats.
 
 ## Problem Summary
-
-The *Headline* is the text indicating the nature of the content below it.
-
-> :exclamation: Headlines in English often use a unique set of grammatical rules known as [:link: Headlinese](https://en.wikipedia.org/wiki/Headlinese).
+The user wants to display non text based, image content.
 
 ## Also Known As
 
 ## Usage
+This allows the user to embed image content like icons, photos.
 
 ## Required data
 
 Property | Type | Description
 ------------ | ------------- | -------------
-`title` | string | The headline
-
-> :exclamation: The Renderer is responsible for assigning the level according to the current content structure.
+path | string | the folder path to the image file
 
 ## Examples
+
+![Action sample](img/image-1.jpg "basic sample")

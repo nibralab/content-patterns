@@ -1,22 +1,22 @@
 [back](structural.md)
-# Headline
+# Chapter
+It is a section of a longer text like in a book.
 
 ## Problem Summary
 
-The *Headline* is the text indicating the nature of the content below it.
-
-> :exclamation: Headlines in English often use a unique set of grammatical rules known as [:link: Headlinese](https://en.wikipedia.org/wiki/Headlinese).
+The user wants to group several sections of content.
 
 ## Also Known As
 
 ## Usage
+The user wants to initiate a new chapter. The chapter holds as container for other page elements like heading, image, paragraph text content etc.
 
 ## Required data
 
 Property | Type | Description
 ------------ | ------------- | -------------
-`title` | string | The headline
 
-> :exclamation: The Renderer is responsible for assigning the level according to the current content structure.
 
 ## Examples
+
+![Chapter sample](img/chapter-1.jpg "basic sample")

@@ -1,22 +1,22 @@
 [back](structural.md)
-# Headline
+# Link
+Allows hyperlink to a location on the same page or any other page on the Web.
 
 ## Problem Summary
-
-The *Headline* is the text indicating the nature of the content below it.
-
-> :exclamation: Headlines in English often use a unique set of grammatical rules known as [:link: Headlinese](https://en.wikipedia.org/wiki/Headlinese).
+The user wants to create a link to different part of the page or website.
 
 ## Also Known As
 
 ## Usage
+This allows the user to link content in some other part of the same page or any other page in the web.
 
 ## Required data
 
 Property | Type | Description
 ------------ | ------------- | -------------
-`title` | string | The headline
-
-> :exclamation: The Renderer is responsible for assigning the level according to the current content structure.
+url | string | the address of the link target
+link text | string | The name for the link
 
 ## Examples
+
+![Action sample](img/link-1.jpg "basic sample")

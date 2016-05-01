@@ -16,8 +16,9 @@ Allows users to easily identify whether a particular section is an advertisement
 Property | Type | Description
 ------------ | ------------- | -------------
 
+
+## Examples
+
 ![Advertisement sample](img/advertisement-1.jpg "basic sample")
 
 ![Advertisement sample](img/advertisement-2.jpg "basic sample")
-
-## Examples

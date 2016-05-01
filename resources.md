@@ -48,13 +48,31 @@ Therefore, the site is aimed primarily at experienced designers who are looking 
 
 ## UI Inspirations
 
+These projects can be used as an inspiration for the UI of a BentoBox like page building tool on the template level.
+The resources are listed in the order, they were added to this document.
+The order does not reflect any kind of ranking.
+
 ### [Quix Pagebuilder](https://www.themexpert.com/quix-pagebuilder)
 
 ### [SP Pagebuilder](https://www.joomshaper.com/page-builder)
 
+### [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e)
+
+### [Embrace SCSS micro-framework](http://nternetinspired.github.io/embrace/)
+
+### [Flexbox Patterns](http://www.flexboxpatterns.com/home)
+
 ## Guidelines
+
+In this section you'll find resources with recommendations regarding the implementation of some patterns in the HTML context. 
+The resources are listed in the order, they were added to this document.
+The order does not reflect any kind of ranking.
 
 ### [Simplicity in Web Application Design](http://de.slideshare.net/UXPA/simplicity-in-web-application-design)
 
 Some rules to consider, when designing web applications.
 Could be turned into a recommendation for extension developers.
+
+### [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/)
+
+Some practical ARIA examples to enhance application accessibility.

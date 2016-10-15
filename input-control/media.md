@@ -25,7 +25,7 @@ Property | Type | Description
 
 ## Examples
 
-
+![Media example](img/media-1.jpg)
 
 ## References
 

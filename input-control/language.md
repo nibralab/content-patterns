@@ -25,10 +25,9 @@ ISO Code | string | ISO code for language
 
 ## Examples
 
-
+![Language example](img/language-1.jpg)
 
 ## References
 
 http://www.loc.gov/standards/iso639-2/
-
 

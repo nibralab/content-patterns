@@ -29,6 +29,8 @@ value | string | The value sent to server on form submission
 
 ## Examples
 
+![Radio example](img/radio-1.jpg)
+![Radio example](img/radio-2.jpg)
 
 
 ## References

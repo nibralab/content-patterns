@@ -24,7 +24,7 @@ Property | Type | Description
 
 ## Examples
 
-
+![Length example](img/length-1.jpg)
 
 ## References
 

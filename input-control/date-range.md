@@ -24,7 +24,10 @@ Property | Type | Description
 
 ## Examples
 
+![Date selector](img/datetime-range.png)
 
+
+![Date selector](img/datetime-range-2.png)
 
 ## References
 

@@ -24,6 +24,8 @@ Property | Type | Description
 
 ## Examples
 
+![Weight example](img/weight-1.jpg)
+
 
 
 ## References

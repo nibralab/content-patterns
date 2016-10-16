@@ -19,6 +19,10 @@ Pattern Lab is a collection of tools to help you create atomic design systems.
 Patternry provides detailed information on different design patterns and explains
 which patterns solve which problems and when they are best used.
 
+### [Predix UI](predixdev.github.io/predix-ui)
+
+The pattern library used by General Electric.
+
 ### [Schema.org](http://schema.org/docs/schemas.html)
 
 The schemas are a set of 'types', each associated with a set of properties. The types are arranged in a hierarchy.
@@ -81,6 +85,6 @@ Some practical ARIA examples to enhance application accessibility.
 
 A brilliant article on Smashing Magazine by Vitaly Friedman on how to get the best out of pattern libraries and tackle common problems.
 
-### [Predix UI](predixdev.github.io/predix-ui)
+### [Brad Frost: Anatomy of a Pattern in a Pattern Library](http://bradfrost.com/blog/post/anatomy-of-a-pattern-in-a-pattern-library/)
 
-The pattern library described in the Smashing Magazine article above.
+A proposal for what information should be displayed alongside each pattern in a pattern library.

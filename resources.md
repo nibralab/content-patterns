@@ -80,3 +80,7 @@ Some practical ARIA examples to enhance application accessibility.
 ### [Taking Pattern Libraries To The Next Level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
 
 A brilliant article on Smashing Magazine by Vitaly Friedman on how to get the best out of pattern libraries and tackle common problems.
+
+### [Predix UI](predixdev.github.io/predix-ui)
+
+The pattern library described in the Smashing Magazine article above.

@@ -19,7 +19,7 @@ Pattern Lab is a collection of tools to help you create atomic design systems.
 Patternry provides detailed information on different design patterns and explains
 which patterns solve which problems and when they are best used.
 
-### [Predix UI](predixdev.github.io/predix-ui)
+### [Predix UI](http://predixdev.github.io/predix-ui/)
 
 The pattern library used by General Electric.
 
